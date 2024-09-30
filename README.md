@@ -20,8 +20,6 @@ Tables:
 - brands, categories, products, stocks
 customers, orders, order_items, stores, staffs
 
-You can get the data and work with it using sql by watch this tutorial in this link: http://www.sqlservertutorial.net/load-sample-database/
-
 Key SQL Queries
 1. Data Exploration
 Retrieve all records from key tables to understand the data.
@@ -41,4 +39,7 @@ Order Tracking: What did specific customers purchase, and what’s the order sta
 Calculate the discounted price of specific products.
 6. Inventory Management
 Analyze stock levels for popular brands and categories across different stores.
+
+You can get the data and work with it using sql by watch this tutorial in this link: http://www.sqlservertutorial.net/load-sample-database/
+
 
